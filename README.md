@@ -1,4 +1,4 @@
-# 🎭 Automação de Testes com Playwright + TypeScript
+# 💻 Automação de Testes com Playwright + TypeScript
 
 Projeto desenvolvido para estudos de **automação de testes utilizando Playwright e TypeScript**, durante o **Curso Básico de Testes Automatizados com Playwright + TypeScript**, ministrado pelo instrutor **Marcos Vinicius Franco**.
 
