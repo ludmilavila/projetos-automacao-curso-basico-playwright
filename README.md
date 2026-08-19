@@ -527,17 +527,15 @@ Este projeto foi construído como um laboratório de estudos para praticar conce
 * [x] Dropdown;
 * [x] Hover;
 * [x] Asserções;
-* [x] Login positivo;
-* [x] Login negativo;
-* [x] Usuário bloqueado;
+* [x] Login com sucesso;
+* [x] Login com falha;
 * [x] Controle de novas abas;
 * [x] Execução em Chromium;
 * [x] Execução em modo UI;
 * [x] Relatório HTML;
 * [x] Gravação de vídeo;
 * [x] Trace;
-* [x] ESLint;
-* [x] Integração com GitHub Actions.
+* [x] ESLint.
 
 ---
 
