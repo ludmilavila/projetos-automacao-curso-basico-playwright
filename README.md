@@ -52,11 +52,6 @@ O projeto utiliza `@playwright/test`, além de plugins e configurações do ESLi
 
 ```text
 projetos-automacao-curso-basico-playwright/
-│
-├── .github/
-│   └── workflows/
-│       └── ...
-│
 ├── tests/
 │   ├── acoes-basicas.spec.ts
 │   ├── login.spec.ts
