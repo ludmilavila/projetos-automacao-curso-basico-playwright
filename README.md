@@ -534,8 +534,8 @@ Este projeto foi construído como um laboratório de estudos para praticar conce
 
 ---
 
-# 👩‍💻 Autora
+# 👩‍💻 Desenvolvido por:
 
 **Ludmila Ávila**
 
-Projeto desenvolvido como parte dos estudos realizados durante o **Curso Básico de Testes Automatizados com Playwright + TypeScript**, ministrado por **Marcos Vinicius Franco**.
+---
