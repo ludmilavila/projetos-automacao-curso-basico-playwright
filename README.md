@@ -6,7 +6,7 @@ O objetivo deste projeto é aplicar, na prática, os principais conceitos aprese
 
 ---
 
-## 📌 Objetivo
+### 📌 Objetivo
 
 O projeto tem como objetivo consolidar conhecimentos sobre automação de testes web utilizando:
 
@@ -34,7 +34,7 @@ Durante o desenvolvimento foram praticados conceitos fundamentais de automação
 
 ---
 
-## 🛠️ Tecnologias e ferramentas
+### 🛠️ Tecnologias e ferramentas
 
 | Tecnologia/Ferramenta | Utilização                                          |
 | --------------------- | --------------------------------------------------- |
@@ -68,7 +68,7 @@ projetos-automacao-curso-basico-playwright/
 
 A pasta `tests` concentra os cenários automatizados do projeto. Atualmente ela possui cinco arquivos `.spec.ts`.
 
-### Principais arquivos
+## Principais arquivos
 
 #### `tests/`
 
@@ -126,7 +126,7 @@ O primeiro executa os testes utilizando o Playwright Test Runner, enquanto o seg
 
 ---
 
-# 🚀 Instalação
+## 🚀 Instalação
 
 ## Pré-requisitos
 
@@ -174,7 +174,7 @@ O Playwright disponibiliza suporte para Chromium, Firefox e WebKit; neste projet
 
 ---
 
-# ▶️ Execução dos testes
+## ▶️ Execução dos testes
 
 ## Executar todos os testes
 
@@ -230,11 +230,11 @@ npm test -- login
 
 ---
 
-# 🧪 Testes automatizados
+## 🧪 Testes automatizados
 
 Os testes foram organizados de acordo com os conceitos estudados durante o curso.
 
-## `primeiro-test.spec.ts`
+### `primeiro-test.spec.ts`
 
 Primeiro contato com o Playwright.
 
@@ -250,7 +250,7 @@ O teste realiza uma navegação para o site oficial do Playwright, interage com 
 
 ---
 
-## `acoes-basicas.spec.ts`
+### `acoes-basicas.spec.ts`
 
 Arquivo dedicado à prática de ações básicas de automação.
 
@@ -285,7 +285,7 @@ O arquivo utiliza páginas do site **The Internet**, criado para demonstrar dife
 
 ---
 
-## `login.spec.ts`
+### `login.spec.ts`
 
 Contém testes relacionados ao fluxo de login do **Sauce Demo**.
 
@@ -317,7 +317,7 @@ Dessa forma, o arquivo contempla tanto um cenário de sucesso quanto cenários d
 
 ---
 
-## `nova-aba.spec.ts`
+### `nova-aba.spec.ts`
 
 Arquivo utilizado para praticar o controle de múltiplas páginas/abas do navegador.
 
@@ -336,7 +336,7 @@ Para isso, é utilizado o evento `page` do `BrowserContext`, permitindo capturar
 
 ---
 
-## `saucedemo.spec.ts`
+### `saucedemo.spec.ts`
 
 Arquivo utilizado para praticar diferentes estratégias de localização de elementos e asserções.
 
@@ -376,7 +376,7 @@ Essas asserções permitem validar diferentes propriedades e estados dos element
 
 ---
 
-# 🔎 Localizadores
+## 🔎 Localizadores
 
 Durante os testes são utilizadas diferentes estratégias de localização de elementos, como:
 
@@ -408,7 +408,7 @@ permitindo utilizar `getByTestId()` com elementos identificados por `data-test`.
 
 ---
 
-# ✅ Asserções
+## ✅ Asserções
 
 As asserções são utilizadas para verificar se o comportamento observado durante o teste corresponde ao resultado esperado.
 
@@ -434,7 +434,7 @@ As asserções do Playwright possuem comportamento de *web-first assertions*, re
 
 ---
 
-# 📊 Relatórios
+## 📊 Relatórios
 
 O projeto está configurado para utilizar o **HTML Reporter**:
 
@@ -452,7 +452,7 @@ npx playwright show-report
 
 ---
 
-# 🎥 Vídeos e Trace
+## 🎥 Vídeos e Trace
 
 O projeto também está configurado para gravar vídeos durante a execução:
 
@@ -472,7 +472,7 @@ O Playwright disponibiliza o Trace Viewer para analisar informações da execuç
 
 ---
 
-# 🧹 ESLint
+## 🧹 ESLint
 
 O projeto utiliza **ESLint** para auxiliar na padronização e qualidade do código.
 
@@ -500,7 +500,7 @@ Também são aplicadas regras relacionadas à indentação e organização do c�
 
 ---
 
-# 🎯 Conceitos praticados
+## 🎯 Conceitos praticados
 
 Este projeto foi construído como um laboratório de estudos para praticar conceitos fundamentais de automação com Playwright e TypeScript, incluindo:
 
@@ -534,7 +534,7 @@ Este projeto foi construído como um laboratório de estudos para praticar conce
 
 ---
 
-# 👩‍💻 Desenvolvido por:
+## 👩‍💻 Desenvolvido por:
 
 **Ludmila Ávila**
 
